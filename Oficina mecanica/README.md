@@ -26,7 +26,7 @@ Modelar e implementar um banco de dados para gerenciamento de uma oficina mecân
 ## Desafios
 
 ### Desafio 1
-Criação das tabelas principais.
+Com as tabelas prontas, inserção de dados.
 
 ### Desafio 2
 Inserção de dados de teste.
